@@ -68,3 +68,18 @@ table{
 {
     color: white;
 }
+.date{
+    color: white;
+}
+
+.btn
+{
+    
+    text-align: center;
+    border-radius: 8px;
+    font-size: large;
+    font-style: italic;
+    background-color: blue;
+    color: white;
+    
+}
